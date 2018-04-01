@@ -648,7 +648,6 @@ outline: 1px solid #079446;
 
 
 .success  header{
-  background: rgb(0,201,255);
   background: linear-gradient(7 0deg, rgba(0,201,255,1) 0%, rgba(0,244,100,1) 100%);
   color: white;
   width: 100%;
